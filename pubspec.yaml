@@ -9,7 +9,7 @@ environment:
   sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
-  collection: ^1.18.0
+  collection: ^1.17.1
   http: ^1.1.0
   json_annotation: ^4.8.1
   universal_io: ^2.2.2
